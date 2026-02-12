@@ -11,4 +11,4 @@ Flattens your entire codebase into one AI-ready file. Works with Claude, Gemini,
 **Just launched.** If you try it:
 - Let me know what breaks (seriously, break it please 🐛)
 - Star it if it saves you time ⭐
-- Or just say hi: [github@nesvet.dev](mailto:github@nesvet.dev)
+- Or just say hi: [hi@nesvet.dev](mailto:hi@nesvet.dev)
