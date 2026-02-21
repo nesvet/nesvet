@@ -3,7 +3,7 @@
 Full-stack engineer with 20 years of experience building product systems
 end to end — data model and protocol through UI and deployment.
 
-Currently open to **founding engineer** and **senior** roles, remote.  
+Currently open to **founding engineer** and **senior** roles — remote or relocation.  
 → [CV](https://github.com/nesvet/cv)
 
 ---
