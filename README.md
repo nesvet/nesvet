@@ -15,7 +15,7 @@ Currently open to **founding engineer** and **senior** roles — remote or reloc
 - [YouScore](https://youscore.top) — YouTube analytics platform tracking
   hundreds channels; used by researchers and journalists from BBC, Deutsche
   Welle, Stanford University, Columbia University
-- [insite](https://github.com/nesvet/insite) — full-stack framework:
+- [inSite](https://github.com/nesvet/insite) — full-stack framework:
   WebSocket, real-time pub/sub via MongoDB change streams, RBAC,
   file transfers — 16 npm packages
 
