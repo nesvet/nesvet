@@ -13,7 +13,7 @@ Currently open to **founding engineer** and **senior** roles — remote or reloc
 - [Roadmap](https://rm.technology) — cross-platform project management tool (Electron, React,
   PixiJS, MongoDB, TypeScript) — 9 years, ~120K LOC
 - [YouScore](https://youscore.top) — YouTube analytics platform tracking
-  hundreds channels; used by researchers and journalists from BBC, Deutsche
+  hundreds of channels; used by researchers and journalists from BBC, Deutsche
   Welle, Stanford University, Columbia University
 - [inSite](https://github.com/nesvet/insite) — full-stack framework:
   WebSocket, real-time pub/sub via MongoDB change streams, RBAC,
